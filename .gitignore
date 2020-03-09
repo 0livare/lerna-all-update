@@ -1,0 +1,16 @@
+# Log files from tools
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log
+
+# Project dependencies
+node_modules/
+
+# The built files
+dist/
+
+# Jest code coverage
+coverage/
+
+# Annoying Mac finder file
+**/.DS_Store

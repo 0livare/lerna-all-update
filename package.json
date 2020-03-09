@@ -1,0 +1,13 @@
+{
+  "name": "forge-vanilla",
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": [
+    "DEMO",
+    "packages/*"
+  ],
+  "engines": {
+    "node": "10.x"
+  }
+}
