@@ -1,6 +1,6 @@
 {
   "name": "@test/global",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "dependencies": {
     "@types/material__ripple": "^0.35.2",
     "@types/node": "^12.0.4",

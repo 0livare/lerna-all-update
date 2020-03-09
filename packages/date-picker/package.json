@@ -1,8 +1,8 @@
 {
   "name": "@test/date-picker",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "dependencies": {
-    "@test/global": "^0.0.17",
+    "@test/global": "^0.0.18",
     "@types/classnames": "^2.2.8",
     "@types/lodash": "^4.14.134",
     "@types/material__textfield": "^0.35.3",
