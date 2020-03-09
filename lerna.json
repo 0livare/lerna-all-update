@@ -1,0 +1,16 @@
+{
+  "version": "0.0.17",
+  "packages": [
+    "packages/*"
+  ],
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "registry": "https://pkgs.dev.azure.com/JCI-UX/_packaging/forge/npm/registry"
+    },
+    "version": {
+      "gitRemote": "up"
+    }
+  }
+}

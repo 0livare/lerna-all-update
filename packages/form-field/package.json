@@ -1,0 +1,7 @@
+{
+  "name": "@test/form-field",
+  "version": "0.0.17",
+  "dependencies": {
+    "@test/global": "^0.0.17"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@test/components-web",
+  "version": "0.0.17",
+  "dependencies": {
+    "@test/button": "^0.0.17",
+    "@test/card": "^0.0.17",
+    "@test/checkbox": "^0.0.17",
+    "@test/date-picker": "^0.0.17",
+    "@test/form-field": "^0.0.17",
+    "@test/global": "^0.0.17",
+    "@test/icon-button": "^0.0.17",
+    "@test/legal-footer": "^0.0.17",
+    "@test/list": "^0.0.17",
+    "@test/login-page": "^0.0.17",
+    "@test/menu": "^0.0.17",
+    "@test/nav-drawer": "^0.0.17",
+    "@test/panel-group": "^0.0.17",
+    "@test/radio": "^0.0.17",
+    "@test/select": "^0.0.17",
+    "@test/sheet": "^0.0.17",
+    "@test/switch": "^0.0.17",
+    "@test/tab-bar": "^0.0.17",
+    "@test/table": "^0.0.17",
+    "@test/text-field": "^0.0.17",
+    "@test/top-app-bar": "^0.0.17",
+    "@test/top-drawer": "^0.0.17",
+    "@test/util": "^0.0.17"
+  }
+}
