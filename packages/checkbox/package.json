@@ -1,7 +1,6 @@
 {
   "name": "@test/checkbox",
   "version": "0.0.19",
-  "scripts": {},
   "dependencies": {
     "@test/global": "^0.0.19"
   }
