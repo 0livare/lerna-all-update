@@ -1,9 +1,9 @@
 {
   "name": "@test/button",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "main": "dist/index.js",
   "license": "UNLICENSED",
   "dependencies": {
-    "@test/global": "^0.0.17"
+    "@test/global": "^0.0.18"
   }
 }
