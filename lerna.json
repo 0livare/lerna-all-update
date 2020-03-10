@@ -1,8 +1,12 @@
 {
   "version": "0.0.19",
-  "packages": [
-    "packages/*"
-  ],
+  "packages": ["packages/*"],
   "npmClient": "yarn",
-  "useWorkspaces": true
+  "useWorkspaces": true,
+  "ignoreChanges": [
+    "**/node_modules/**",
+    "**/package.json",
+    "**/*.md",
+    "**/__snapshots__/**"
+  ]
 }
