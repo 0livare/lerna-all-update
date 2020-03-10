@@ -1,8 +1,8 @@
 {
   "name": "@test/card",
-  "version": "0.0.19",
+  "version": "1.0.2",
   "license": "UNLICENSED",
   "dependencies": {
-    "@test/global": "^0.0.19"
+    "@test/global": "^1.0.2"
   }
 }
